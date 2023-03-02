@@ -1,8 +1,8 @@
-# ${data.title}
+# %title
 
-Link to site: [Site](${data.siteLink})
+Link to site: [Site](%siteLink)
 
-Link to live demo: [Demo](${data.demoLinK)
+Link to live demo: [Demo](%demoLink)
 
 ## Table of Contents
 
@@ -20,48 +20,48 @@ Link to live demo: [Demo](${data.demoLinK)
 
 ## Features
 
-${data.features}
+%features
 
 ## Usage
 
-${data.usage}
+%usage
 
-[screenshot](${data.screenshot})
+[screenshot](%screenshot)
 
-[diagram](${data.diagram})
+[diagram](%diagram)
 
 ## Installation
 
-${data.installation}
+%installation
 
 ## Dependencies
 
-${data.dependencies}
+%dependencies
 
 ## Credits
 
-${data.credits}
+%credits
 
 ---
 
 ## License
 
-${data.license}
+%license
 
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+Additional statically generated sections; feel free to delete or customize:
 
 ## Badges
 
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+Check out the badges hosted by [shields.io](https://shields.io/).
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+If you welcome contributions, include a section here desribing how best to do so. Check out the [Contributor Covenant](https://www.contributor-covenant.org/).
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Include any tests if warranted.
