@@ -5,6 +5,12 @@ inquirer
   .prompt([
     {
       type: "input",
+      name: "intro",
+      message:
+        "Welcome to WRITEME, a CLI README generator running on node and inquirer. Responses to the following prompts will be used to dynamically generate a README file in the 'outputs' directory. For images, double check filepath is absolute or correct relative to where README's final location is in your repo. After file is finished cooking feel free to season to your taste. Press Return to begin.",
+    },
+    {
+      type: "input",
       name: "title",
       message: "Title of the project:",
     },
@@ -58,6 +64,16 @@ inquirer
       name: "dependencies",
       message:
         "What are the dependencies required to run the program? Tip: To generate a list item, surround each item with html list tags. Ex: <li>item1</li> <li>item2</li>",
+    },
+    {
+      type: "input",
+      name: "contribute",
+      message: "What are the contribution guidelines for your project?",
+    },
+    {
+      type: "input",
+      name: "test",
+      message: "What are the instructions for testing?",
     },
     {
       type: "input",

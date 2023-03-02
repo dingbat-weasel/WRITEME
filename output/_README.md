@@ -1,8 +1,8 @@
-# %title
+# 
 
-Link to site: [Site](%siteLink)
+Link to site: [Site]()
 
-Link to live demo: [Demo](%demoLink)
+Link to live demo: [Demo]()
 
 ## Table of Contents
 
@@ -16,27 +16,27 @@ Link to live demo: [Demo](%demoLink)
 
 ## Description
 
-%description
+
 
 ## Features
 
-%features
+
 
 ## Usage
 
-%usage
 
-[screenshot](%screenshot)
 
-[diagram](%diagram)
+[screenshot]()
+
+[diagram]()
 
 ## Installation
 
-%installation
+
 
 ## Dependencies
 
-%dependencies
+
 
 ## How to Contribute
 
@@ -48,10 +48,10 @@ Link to live demo: [Demo](%demoLink)
 
 ## Credits
 
-%credits
+
 
 ---
 
 ## License
 
-%license
+
