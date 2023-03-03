@@ -55,7 +55,7 @@ Link to live demo: [Demo](%demoLink)
 
 ## Questions
 
-For questions/concerns you can reach me on [GitHub](%github) or by Email at %email.
+For questions/concerns you can reach me on [GitHub](https://github.com/%github) or by Email at %email.
 
 ---
 
