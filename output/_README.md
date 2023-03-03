@@ -1,10 +1,10 @@
-# %title
+# 
 
-%badgeLicense
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-Link to site: [Site](%siteLink)
+Link to site: [Site]()
 
-Link to live demo: [Demo](%demoLink)
+Link to live demo: [Demo]()
 
 ## Table of Contents
 
@@ -21,46 +21,46 @@ Link to live demo: [Demo](%demoLink)
 
 ## Description
 
-%description
+
 
 ## Features
 
-%features
+
 
 ## Usage
 
-%usage
 
-[screenshot](%screenshot)
 
-[diagram](%diagram)
+[screenshot]()
+
+[diagram]()
 
 ## Installation
 
-%installation
+
 
 ## Dependencies
 
-%dependencies
+
 
 ## Contribute
 
-%contribute
+
 
 ## Tests
 
-%test
+
 
 ## Credits
 
-%credits
+
 
 ## Questions
 
-For questions/concerns you can reach me on [GitHub](%github) or by Email at %email.
+For questions/concerns you can reach me on [GitHub]() or by Email at .
 
 ---
 
 ## License
 
-%license
+Apache License 2.0
