@@ -31,7 +31,7 @@ Welcome to WRITEME, a dynamic CLI README generator running on node and the inqui
 
 The CLI will display prompts in the terminal window. Type your reply to these prompts and press enter. Once you are done they will be added to the README.md file in the output directory.
 
-![screenshot](./assets/images/screenshot.jpg)
+![screenshot](./assets/images/screenshot.JPG)
 
 ## Installation
 
@@ -55,7 +55,7 @@ This was an assignment for the University of Washington Coding Bootcamp.
 
 ## Questions
 
-For questions/concerns you can reach me on [GitHub](dingbat-weasel) or by Email at isaacrperk@gmail.com.
+For questions/concerns you can reach me on [GitHub](https://github.com/dingbat-weasel) or by Email at isaacrperk@gmail.com.
 
 ---
 
