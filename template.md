@@ -31,9 +31,7 @@ Link to live demo: [Demo](%demoLink)
 
 %usage
 
-[screenshot](%screenshot)
-
-[diagram](%diagram)
+![screenshot](%screenshot)
 
 ## Installation
 

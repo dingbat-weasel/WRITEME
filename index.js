@@ -49,12 +49,6 @@ inquirer
     },
     {
       type: "input",
-      name: "diagram",
-      message:
-        "To add a diagram, create an `assets/images` folder in your repository and upload your diagram to it. Then, write the filepath here.",
-    },
-    {
-      type: "input",
       name: "installation",
       message:
         "What are the steps required to install your project? Provide step-by-step description of how to get the project running. Tip: To generate a list item, surround each item with html list tags. Ex: <li>item1</li> <li>item2</li>",
@@ -200,7 +194,6 @@ inquirer
           .replace("%features", data.features)
           .replace("%usage", data.usage)
           .replace("%screenshot", data.screenshot)
-          .replace("%diagram", data.diagram)
           .replace("%installation", data.installation)
           .replace("%dependencies", data.dependencies)
           .replace("%contribute", data.contribute)
@@ -210,9 +203,6 @@ inquirer
           .replace("%email", data.email)
           .replace("%license", data.license)
           .replace("%badgeLicense", badgeLicense);
-
-        console.log(data.license);
-        console.log(badgeLicense);
 
         fs.writeFile(`./output/${filename}`, replaced, "utf-8", (err) => {
           if (err === null) {
