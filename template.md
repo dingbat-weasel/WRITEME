@@ -1,5 +1,7 @@
 # %title
 
+%licenseBadge
+
 Link to site: [Site](%siteLink)
 
 Link to live demo: [Demo](%demoLink)
@@ -11,7 +13,10 @@ Link to live demo: [Demo](%demoLink)
 - [Usage](#usage)
 - [Installation](#installation)
 - [Dependencies](#dependencies)
+- [Contribute](#contribute)
+- [Tests](#tests)
 - [Credits](#credits)
+- [Questions](#questions)
 - [License](#license)
 
 ## Description
@@ -38,7 +43,7 @@ Link to live demo: [Demo](%demoLink)
 
 %dependencies
 
-## How to Contribute
+## Contribute
 
 %contribute
 
@@ -49,6 +54,10 @@ Link to live demo: [Demo](%demoLink)
 ## Credits
 
 %credits
+
+## Questions
+
+For questions/concerns you can reach me on [GitHub](%github) or by Email at %email.
 
 ---
 
